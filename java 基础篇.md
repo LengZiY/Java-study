@@ -240,11 +240,11 @@ Integer class{
 - 位运算符
 - 三元运算符
 
-> ![image-20220923211442183](D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20220923211442183.png)
+> ![image-20220923211442183](\Java基础image\image-20220923211442183.png)
 
-> ![image-20220923212303207](D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20220923212303207.png)
+> ![image-20220923212303207](\Java基础image\image-20220923212303207.png)
 
-> ![image-20220923212150539](D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20220923212150539.png)
+> ![image-20220923212150539](\Java基础image\image-20220923212150539.png)
 
 > 比较运算符的结果都是boolean型，也就是要么是true，要么是false。
 >
@@ -288,7 +288,7 @@ class LogicTest{
 
 ## 位运算
 
-![image-20220924113222045](D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20220924113222045.png)
+![image-20220924113222045](\Java基础image\image-20220924113222045.png)
 
 ```java
 class BitTest{
@@ -301,7 +301,7 @@ class BitTest{
 }
 ```
 
-![image-20220924134837649](D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20220924134837649.png)
+![image-20220924134837649](\Java基础image\image-20220924134837649.png)
 
 ### 交换数据：
 
@@ -392,7 +392,7 @@ public class Test4{
 
 运算的优先级与结合性
 
-![image-20220924211429671](D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20220924211429671.png)
+![image-20220924211429671](\Java基础image\image-20220924211429671.png)
 
 ## 流程控制
 
@@ -467,7 +467,7 @@ class ScannerTest{
 }
 ```
 
-<img src="D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20220925010156019.png" alt="image-20220925010156019" style="zoom: 67%;" />	
+<img src="\Java基础image\image-20220925010156019.png" alt="image-20220925010156019" style="zoom: 67%;" />	
 
 求质数例题：
 
@@ -1168,7 +1168,7 @@ class Test{
 
 ### Java 的内存模型
 
-![image-20221022224923072](D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20221022224923072.png)
+![image-20221022224923072](\Java基础image\image-20221022224923072.png)
 
 
 
@@ -1278,17 +1278,11 @@ class Test{
 
 - 所有要拼接的内容都会往StringBuilder中放，不会创建很多无用的空间，节约内存
 
-![image-20221025203759883](D:\Java\Java学习笔记\Java基础语法篇\笔记\Java基础image\image-20221025203759883.png)
+![image-20221025203759883](\Java基础image\image-20221025203759883.png)
 
 # 集合ArrayList
 
 集合定义后类型不固定，大小是可变的。
-
-
-
-
-
-
 
 ```java
 class Test{
